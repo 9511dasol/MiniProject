@@ -1,4 +1,4 @@
-# JSP -Project - mini Homepage
+# JSP -Project - Shopping Mall
 JSP 쇼핑몰 홈페이지
 
 ## 프로젝트 소개 🖥️
