@@ -11,7 +11,7 @@ JSP 쇼핑몰 홈페이지
 - 김종민:
 - 김영우:
 - 박성준
-- 한다솔: 관리자 홈페이지, 좋아요 기능 파트 담당(프론트앤드, 백앤드)
+- 한다솔: 관리자 홈페이지, 좋아요, 찜하기 기능 파트 담당(프론트앤드, 백앤드)
 
 ### 개발 환경 ⚙️
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
